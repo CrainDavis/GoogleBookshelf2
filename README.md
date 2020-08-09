@@ -8,6 +8,8 @@ This is a full-stack application that allows the user to browse for books from t
 
 This application uses ReactJS with Material-UI and JawsDB (MySQL) database. To use the application, check out the [usage](#usage) section or view a detailed [demonstration](#demonstration).
 
+This application is a re-make of another one of my applications (https://github.com/CrainDavis/GoogleBookshelf). The original GoogleBookshelf application is a MERN app using MongoDB and Bootstrap; however, due to Heroku phasing out mLab for the MongoDB database, I have recreated GoogleBookshelf by using a Sequelize database and Material-UI instead.
+
 ---
 
 ## Table of Contents:
