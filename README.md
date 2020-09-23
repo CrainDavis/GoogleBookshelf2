@@ -8,8 +8,6 @@ This is a full-stack application that allows the user to browse for books from t
 
 This application uses ReactJS with Material-UI and JawsDB (MySQL) database. To use the application, check out the [usage](#usage) section or view a detailed [demonstration](#demonstration).
 
-This application is a re-make of another one of my applications (https://github.com/CrainDavis/GoogleBookshelf). The original GoogleBookshelf application is a MERN app using MongoDB and Bootstrap; however, due to Heroku phasing out mLab for the MongoDB database, I have recreated GoogleBookshelf by using a Sequelize database and Material-UI instead.
-
 ---
 
 ## Table of Contents:
@@ -45,7 +43,7 @@ To view saved books, click the 'Saved Books' button in the page header.
 ---
 
 ## Demonstration:
-For a demonstration on how to use this application, go to [this link](https://drive.google.com/file/d/1R3ncig81tyJYjyEXtHI3feJ7z977mgMk/view).
+For a demonstration on how to use this application, go to [this link](https://drive.google.com/file/d/1R3ncig81tyJYjyEXtHI3feJ7z977mgMk/view). Please note that this demonstration video was created using my original __GoogleBookshelf__ application, which was used MongoDB instead of MySQL for the database and Bootstrap instead of Material-UI for the design. This original version was re-made because Heroku phased out its mLab MongoDB add-on on November 10, 2020. While the application in this [demonstration video](https://drive.google.com/file/d/1R3ncig81tyJYjyEXtHI3feJ7z977mgMk/view) is slightly different from the [actual app](https://cdavis-googlebookshelf2.herokuapp.com/), the basic functionality is completely the same.
 
 ---
 
