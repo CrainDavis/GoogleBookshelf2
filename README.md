@@ -24,7 +24,7 @@ This application is a re-make of another one of my applications (https://github.
 ---
 
 ## Installation:
-None is required.
+No installation is required.
 
 ---
 
