@@ -180,12 +180,3 @@ https://www.contributor-covenant.org/translations.
 * [JawsDB](https://www.jawsdb.com/)
 * [Material-UI](https://material-ui.com/)
 * [Font Awesome](https://fontawesome.com/)
-
----
-
-## Questions: 
-For any questions, please contact:
-
-![CrainDavis](https://avatars0.githubusercontent.com/u/59345254?v=4) 
-
-__[CrainDavis](https://github.com/CrainDavis)__ at chyna.davis11@gmail.com
